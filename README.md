@@ -10,3 +10,5 @@ Este proyecto genera una lista de 100,000 usuarios y compara los tiempos de bús
 
 ## Cómo Usarlo
 1. Ejecuta el archivo `tarea.py` en Python
+
+## link de video: https://drive.google.com/file/d/1sPs9UCy8HCieFANM0lUAy5ELPW4ijODb/view?usp=sharing
