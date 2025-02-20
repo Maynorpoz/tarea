@@ -11,7 +11,7 @@ class Usuario:
     def __repr__(self):
         return f"Usuario({self.id}, {self.nombre}, {self.edad})"
 
-# generar lista de 100000 usiarios
+# generar lista de 100000 usuarios
 nombres = ["Carlos", "Ana", "Luis", "Maria", "Jorge", "Elena", "Pablo", "Lucia"]
 usuarios = [Usuario(i, random.choice(nombres), random.randint(18, 80)) for i in range(100000)]
 
